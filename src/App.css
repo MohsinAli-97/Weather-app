@@ -5,6 +5,14 @@
   display: flex;
   
 }
+.image{
+  width: 100px;
+}
+
+.dayslist{
+  display: flex;
+  max-width: 65%;
+}
 
 .App-logo {
   height: 40vmin;
@@ -12,11 +20,14 @@
 }
 .container1{
   width: 65%;
-  background-color: rgb(187, 221, 231);
+  background-color:#EFF2FA;
+  
+  
 }
 .container2{
   width: 35%;
-  background-color: #fdfdfd;
+  background-color: #98A6CE;
+ 
 }
 
 @media (prefers-reduced-motion: no-preference) {

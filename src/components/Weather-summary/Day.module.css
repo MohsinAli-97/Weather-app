@@ -1,0 +1,14 @@
+.image{
+    width: 4vw;
+}
+.pStyle{
+    margin: 0.5em;
+}
+.container{
+    
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

@@ -1,0 +1,23 @@
+.time{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    font-size:4vw;  
+    color: 	#3060FF;
+}
+.date{
+    margin: 0;
+    font-size:2vw;
+    
+}
+.text{
+    margin: 0;
+    font-size:2vw;  
+    color: 	#3060FF;
+}
+.container{
+    width: 100%;
+    margin: 5%;
+    
+    
+}
